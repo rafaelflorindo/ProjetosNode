@@ -1,0 +1,7 @@
+**Dependências
+
+npm install express body-parser morgan cors --save​
+
+**Instalar projeto​
+
+npm install
